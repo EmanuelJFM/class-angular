@@ -1,4 +1,3 @@
 # class-angular
 documentación del angular
-console.log(pene)mlmvlnewlkvmlewmlvmkewnvjkneckewkvcneknvknvlkeklnvkevnenvkewbkvklenvkkvlkwnvknkvnewkjblxmañx,lñasmcknw,c,ñm,cnknknnknknknknknknjgcdssewrdhhklkñl´piit64exnlnlkgxfknkvxgvj,nkbhjc jnvkbghnnkbjbm lñkn.jvgb bn bncbvnbmbmbm,bmbbmbjlñjugyfgtrsdrtdclmñmñkohjkgjkhl,kmbmv ., kncjkenjknwkvjewvjewjvnewknvk
-jjkbkjjbnkj
+console.log(pene)
